@@ -24,5 +24,22 @@ So for the only reason that I love the Apple ecosystem, I've spend lot of time c
 
 I really like working in a group, not only for the social interactions, but also because when I'm alone on a project, I tend to let it drown after a day of not working on it or just with the random idea of another useless project
 
-## My iOS journey
+## My experiences with iOS
 
+- what I like in iOS developement -
+
+###### Swifty companion
+
+###### Swifty protein
+
+###### Arator
+
+## My journey in graphics programming
+
+- I like math and I like to use them -
+
+###### Ray tracing
+
+###### GLScene
+
+## Future ambitions
