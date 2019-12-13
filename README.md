@@ -45,8 +45,7 @@ So here is a list of everything that app is using :
 - custom view (a view that is drawn using UIBezierPath)
 - CocoaPods (some svg viewer)
 
-<img src="images/SwiftyCompanion/HomeScreen.png" width=350>
-<img src="images/SwiftyCompanion/StudentScreen.png" width=350>
+<img src="images/SwiftyCompanion/HomeScreen.png" width=350> <img src="images/SwiftyCompanion/StudentScreen.png" width=350>
 
 ### Swifty protein
 
