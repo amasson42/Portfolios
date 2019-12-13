@@ -26,20 +26,19 @@ I really like working in a group, not only for the social interactions, but also
 
 ## My experiences with iOS
 
-- what I like in iOS developement -
+My experience with iOS started with Objective-C, when 
 
-###### Swifty companion
+### Swifty companion
 
-###### Swifty protein
+### Swifty protein
 
-###### Arator
+### Arator
 
 ## My journey in graphics programming
 
-- I like math and I like to use them -
 
-###### Ray tracing
+### Ray tracing
 
-###### GLScene
+### GLScene
 
 ## Future ambitions
