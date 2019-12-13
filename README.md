@@ -37,10 +37,6 @@ The goal of this project was to get familiar with the usage of an API (a relativ
 The usage of the app is to type the login of a student in a search bar and the application will call the school API for all informations it can find.
 Then render it all
 
-<img src="images/SwiftyCompanion/HomeScreen.png" width=350>
-
-![HomeScreen](images/SwiftyCompanion/HomeScreen.png)
-
 So here is a list of everything that app is using :
 - navigation controller (and segue)
 - auto layout (of course)
@@ -49,7 +45,8 @@ So here is a list of everything that app is using :
 - custom view (a view that is drawn using UIBezierPath)
 - CocoaPods (some svg viewer)
 
-![Student Profile Screen](images/SwiftyCompanion/StudentScreen.png)
+<img src="images/SwiftyCompanion/HomeScreen.png" width=350>
+<img src="images/SwiftyCompanion/StudentScreen.png" width=350>
 
 ### Swifty protein
 
